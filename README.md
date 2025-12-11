@@ -9,10 +9,12 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/praagyajain/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/praagyajain/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praagyajain/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
+| [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praagyajain/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -57,4 +59,5 @@
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/praagyajain/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
 <!---LeetCode Topics End-->
