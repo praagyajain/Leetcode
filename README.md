@@ -11,11 +11,13 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/praagyajain/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praagyajain/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
 | [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praagyajain/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/praagyajain/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2887-sort-vowels-in-a-string](https://github.com/praagyajain/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/praagyajain/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +63,5 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/praagyajain/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 <!---LeetCode Topics End-->
