@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
+| [2092-find-all-people-with-secret](https://github.com/praagyajain/Leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [2092-find-all-people-with-secret](https://github.com/praagyajain/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2887-sort-vowels-in-a-string](https://github.com/praagyajain/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -73,4 +75,16 @@
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/praagyajain/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Depth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/praagyajain/Leetcode/tree/master/2092-find-all-people-with-secret) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/praagyajain/Leetcode/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/praagyajain/Leetcode/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
