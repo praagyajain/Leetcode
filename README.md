@@ -52,6 +52,7 @@
 | [0044-wildcard-matching](https://github.com/praagyajain/Leetcode/tree/master/0044-wildcard-matching) |
 | [0944-delete-columns-to-make-sorted](https://github.com/praagyajain/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/praagyajain/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/praagyajain/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/praagyajain/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/praagyajain/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -82,6 +83,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/praagyajain/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/praagyajain/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Depth-First Search
 |  |
