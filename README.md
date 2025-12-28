@@ -8,6 +8,7 @@
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/praagyajain/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praagyajain/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/praagyajain/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/praagyajain/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3074-apple-redistribution-into-boxes](https://github.com/praagyajain/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -101,4 +102,12 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/praagyajain/Leetcode/tree/master/0044-wildcard-matching) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praagyajain/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praagyajain/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
