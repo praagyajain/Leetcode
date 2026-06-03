@@ -25,6 +25,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praagyajain/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/praagyajain/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/praagyajain/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/praagyajain/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/praagyajain/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/praagyajain/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/praagyajain/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/praagyajain/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/praagyajain/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Depth-First Search
 |  |
 | ------- |
