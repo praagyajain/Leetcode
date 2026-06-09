@@ -19,6 +19,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praagyajain/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/praagyajain/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3689-maximum-total-subarray-value-i](https://github.com/praagyajain/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/praagyajain/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/praagyajain/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3689-maximum-total-subarray-value-i](https://github.com/praagyajain/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
