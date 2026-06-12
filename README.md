@@ -16,6 +16,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/praagyajain/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3074-apple-redistribution-into-boxes](https://github.com/praagyajain/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praagyajain/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/praagyajain/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -36,6 +37,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/praagyajain/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/praagyajain/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/praagyajain/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praagyajain/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
@@ -43,6 +45,7 @@
 | [0044-wildcard-matching](https://github.com/praagyajain/Leetcode/tree/master/0044-wildcard-matching) |
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
 | [1340-jump-game-v](https://github.com/praagyajain/Leetcode/tree/master/1340-jump-game-v) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praagyajain/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/praagyajain/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/praagyajain/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -134,6 +138,7 @@
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praagyajain/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/praagyajain/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,4 +151,8 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/praagyajain/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
