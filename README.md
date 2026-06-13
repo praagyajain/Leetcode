@@ -21,6 +21,7 @@
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/praagyajain/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3689-maximum-total-subarray-value-i](https://github.com/praagyajain/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/praagyajain/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/praagyajain/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/praagyajain/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3838-weighted-word-mapping](https://github.com/praagyajain/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/praagyajain/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/praagyajain/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/praagyajain/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
