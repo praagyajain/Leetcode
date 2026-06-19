@@ -12,6 +12,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praagyajain/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/praagyajain/Leetcode/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/praagyajain/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1732-find-the-highest-altitude](https://github.com/praagyajain/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/praagyajain/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/praagyajain/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3074-apple-redistribution-into-boxes](https://github.com/praagyajain/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -108,6 +109,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/praagyajain/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/praagyajain/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/praagyajain/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/praagyajain/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
