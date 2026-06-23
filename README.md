@@ -48,6 +48,7 @@
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
 | [1340-jump-game-v](https://github.com/praagyajain/Leetcode/tree/master/1340-jump-game-v) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/praagyajain/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [1732-find-the-highest-altitude](https://github.com/praagyajain/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/praagyajain/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/praagyajain/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/praagyajain/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/praagyajain/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Depth-First Search
 |  |
