@@ -18,6 +18,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/praagyajain/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/praagyajain/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praagyajain/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -52,6 +53,7 @@
 | [0044-wildcard-matching](https://github.com/praagyajain/Leetcode/tree/master/0044-wildcard-matching) |
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
 | [1340-jump-game-v](https://github.com/praagyajain/Leetcode/tree/master/1340-jump-game-v) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/praagyajain/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/praagyajain/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -93,6 +95,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/praagyajain/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/praagyajain/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/praagyajain/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
@@ -109,6 +112,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/praagyajain/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/praagyajain/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/praagyajain/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3606-coupon-code-validator](https://github.com/praagyajain/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
@@ -147,6 +151,7 @@
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praagyajain/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/praagyajain/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -170,9 +175,11 @@
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/praagyajain/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/praagyajain/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
@@ -202,4 +209,5 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/praagyajain/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
