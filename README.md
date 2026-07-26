@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
+| [0628-maximum-product-of-three-numbers](https://github.com/praagyajain/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/praagyajain/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1340-jump-game-v](https://github.com/praagyajain/Leetcode/tree/master/1340-jump-game-v) |
@@ -39,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/praagyajain/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/praagyajain/Leetcode/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/praagyajain/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/praagyajain/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -106,6 +108,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/praagyajain/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1340-jump-game-v](https://github.com/praagyajain/Leetcode/tree/master/1340-jump-game-v) |
 | [2092-find-all-people-with-secret](https://github.com/praagyajain/Leetcode/tree/master/2092-find-all-people-with-secret) |
