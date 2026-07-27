@@ -12,6 +12,7 @@
 | [1340-jump-game-v](https://github.com/praagyajain/Leetcode/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praagyajain/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/praagyajain/Leetcode/tree/master/1390-four-divisors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praagyajain/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/praagyajain/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1732-find-the-highest-altitude](https://github.com/praagyajain/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/praagyajain/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -111,6 +112,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/praagyajain/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1340-jump-game-v](https://github.com/praagyajain/Leetcode/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praagyajain/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2092-find-all-people-with-secret](https://github.com/praagyajain/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2887-sort-vowels-in-a-string](https://github.com/praagyajain/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/praagyajain/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -213,4 +215,8 @@
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/praagyajain/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praagyajain/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
