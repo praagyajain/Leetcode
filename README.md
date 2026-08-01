@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/praagyajain/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praagyajain/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/praagyajain/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/praagyajain/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/praagyajain/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praagyajain/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/praagyajain/Leetcode/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/praagyajain/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -55,6 +57,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/praagyajain/Leetcode/tree/master/0044-wildcard-matching) |
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/praagyajain/Leetcode/tree/master/0486-predict-the-winner) |
 | [1340-jump-game-v](https://github.com/praagyajain/Leetcode/tree/master/1340-jump-game-v) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praagyajain/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/praagyajain/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/praagyajain/Leetcode/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/praagyajain/Leetcode/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,4 +229,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/praagyajain/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/praagyajain/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
