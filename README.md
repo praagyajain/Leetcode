@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/praagyajain/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/praagyajain/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praagyajain/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -68,6 +69,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/praagyajain/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/praagyajain/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/praagyajain/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/praagyajain/Leetcode/tree/master/0994-rotting-oranges) |
@@ -144,6 +146,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/praagyajain/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/praagyajain/Leetcode/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praagyajain/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/praagyajain/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -171,6 +174,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/praagyajain/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/praagyajain/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/praagyajain/Leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praagyajain/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -222,6 +226,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/praagyajain/Leetcode/tree/master/0200-number-of-islands) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/praagyajain/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
